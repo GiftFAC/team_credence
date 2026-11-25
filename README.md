@@ -1,21 +1,21 @@
-### TEAM CREDENCE
+## TEAM CREDENCE
 
 ## Group 3 – Data Science Capstone Project
 
 ## Topic: Risk Prediction of Credit Card Default
 
-# Problem Statement
+### Problem Statement
 
 Credit card default is a major challenge for financial institutions because it can result in significant financial losses. This project aims to analyse credit card customer data and develop a machine learning model that predicts whether a customer is likely to default on their next credit card payment.
 
 The goal is to support better credit risk assessment and informed decision-making.
 
-# Dataset
+### Dataset
 
 The project uses the Default of Credit Card Clients datadet from the UCI Machine Learning Repository
 https://archive.ics.uci.edu/dataset/350/default%2Bof%2Bcredit%2Bcard%2Bclients
 
-# Group Members
+### Group Members
 
 1. Sanusi Hadiatillah Oyediran
 2. Ademola Akinkunmi 
@@ -29,11 +29,11 @@ https://archive.ics.uci.edu/dataset/350/default%2Bof%2Bcredit%2Bcard%2Bclients
 
 ## How to Run the Project
 
-# Prerequisites
+### Prerequisites
 Python
 Jupyter Notebook
 
-# Instructions
+### Instructions
 Clone the repository:git clone https://github.com/GiftFAC/team_credence.git
 Navigate into the project folder:cd team_credence
 Install the required libraries:pip install pandas numpy matplotlib seaborn scikit-learn joblib python-calamine
