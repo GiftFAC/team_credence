@@ -1,0 +1,8 @@
+pandas==<function version at 0x000001D80B0F5900>
+numpy==<function version at 0x000001D80B0F5900>
+matplotlib==<function version at 0x000001D80B0F5900>
+seaborn==<function version at 0x000001D80B0F5900>
+scikit-learn==<function version at 0x000001D80B0F5900>
+xgboost
+openpyxl==<function version at 0x000001D80B0F5900>
+joblib==<function version at 0x000001D80B0F5900>
